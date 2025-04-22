@@ -1,0 +1,16 @@
+C:\Users\LABAdmin\Documents\STT_Lab\STT_Lab12\STT_Lab12\bin\Debug\net8.0-windows\STT_Lab12.exe
+C:\Users\LABAdmin\Documents\STT_Lab\STT_Lab12\STT_Lab12\bin\Debug\net8.0-windows\STT_Lab12.deps.json
+C:\Users\LABAdmin\Documents\STT_Lab\STT_Lab12\STT_Lab12\bin\Debug\net8.0-windows\STT_Lab12.runtimeconfig.json
+C:\Users\LABAdmin\Documents\STT_Lab\STT_Lab12\STT_Lab12\bin\Debug\net8.0-windows\STT_Lab12.dll
+C:\Users\LABAdmin\Documents\STT_Lab\STT_Lab12\STT_Lab12\bin\Debug\net8.0-windows\STT_Lab12.pdb
+C:\Users\LABAdmin\Documents\STT_Lab\STT_Lab12\STT_Lab12\obj\Debug\net8.0-windows\STT_Lab12.Form1.resources
+C:\Users\LABAdmin\Documents\STT_Lab\STT_Lab12\STT_Lab12\obj\Debug\net8.0-windows\STT_Lab12.csproj.GenerateResource.cache
+C:\Users\LABAdmin\Documents\STT_Lab\STT_Lab12\STT_Lab12\obj\Debug\net8.0-windows\STT_Lab12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABAdmin\Documents\STT_Lab\STT_Lab12\STT_Lab12\obj\Debug\net8.0-windows\STT_Lab12.AssemblyInfoInputs.cache
+C:\Users\LABAdmin\Documents\STT_Lab\STT_Lab12\STT_Lab12\obj\Debug\net8.0-windows\STT_Lab12.AssemblyInfo.cs
+C:\Users\LABAdmin\Documents\STT_Lab\STT_Lab12\STT_Lab12\obj\Debug\net8.0-windows\STT_Lab12.csproj.CoreCompileInputs.cache
+C:\Users\LABAdmin\Documents\STT_Lab\STT_Lab12\STT_Lab12\obj\Debug\net8.0-windows\STT_Lab12.dll
+C:\Users\LABAdmin\Documents\STT_Lab\STT_Lab12\STT_Lab12\obj\Debug\net8.0-windows\refint\STT_Lab12.dll
+C:\Users\LABAdmin\Documents\STT_Lab\STT_Lab12\STT_Lab12\obj\Debug\net8.0-windows\STT_Lab12.pdb
+C:\Users\LABAdmin\Documents\STT_Lab\STT_Lab12\STT_Lab12\obj\Debug\net8.0-windows\STT_Lab12.genruntimeconfig.cache
+C:\Users\LABAdmin\Documents\STT_Lab\STT_Lab12\STT_Lab12\obj\Debug\net8.0-windows\ref\STT_Lab12.dll

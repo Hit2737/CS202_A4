@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\STT\CS202_A4\ConsoleAlarmTimer\ConsoleAlarmTimer\bin\Debug\net8.0\ConsoleAlarmTimer.exe
+C:\Users\HP\Documents\STT\CS202_A4\ConsoleAlarmTimer\ConsoleAlarmTimer\bin\Debug\net8.0\ConsoleAlarmTimer.deps.json
+C:\Users\HP\Documents\STT\CS202_A4\ConsoleAlarmTimer\ConsoleAlarmTimer\bin\Debug\net8.0\ConsoleAlarmTimer.runtimeconfig.json
+C:\Users\HP\Documents\STT\CS202_A4\ConsoleAlarmTimer\ConsoleAlarmTimer\bin\Debug\net8.0\ConsoleAlarmTimer.dll
+C:\Users\HP\Documents\STT\CS202_A4\ConsoleAlarmTimer\ConsoleAlarmTimer\bin\Debug\net8.0\ConsoleAlarmTimer.pdb
+C:\Users\HP\Documents\STT\CS202_A4\ConsoleAlarmTimer\ConsoleAlarmTimer\obj\Debug\net8.0\ConsoleAlarmTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\STT\CS202_A4\ConsoleAlarmTimer\ConsoleAlarmTimer\obj\Debug\net8.0\ConsoleAlarmTimer.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\STT\CS202_A4\ConsoleAlarmTimer\ConsoleAlarmTimer\obj\Debug\net8.0\ConsoleAlarmTimer.AssemblyInfo.cs
+C:\Users\HP\Documents\STT\CS202_A4\ConsoleAlarmTimer\ConsoleAlarmTimer\obj\Debug\net8.0\ConsoleAlarmTimer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\STT\CS202_A4\ConsoleAlarmTimer\ConsoleAlarmTimer\obj\Debug\net8.0\ConsoleAlarmTimer.sourcelink.json
+C:\Users\HP\Documents\STT\CS202_A4\ConsoleAlarmTimer\ConsoleAlarmTimer\obj\Debug\net8.0\ConsoleAlarmTimer.dll
+C:\Users\HP\Documents\STT\CS202_A4\ConsoleAlarmTimer\ConsoleAlarmTimer\obj\Debug\net8.0\refint\ConsoleAlarmTimer.dll
+C:\Users\HP\Documents\STT\CS202_A4\ConsoleAlarmTimer\ConsoleAlarmTimer\obj\Debug\net8.0\ConsoleAlarmTimer.pdb
+C:\Users\HP\Documents\STT\CS202_A4\ConsoleAlarmTimer\ConsoleAlarmTimer\obj\Debug\net8.0\ConsoleAlarmTimer.genruntimeconfig.cache
+C:\Users\HP\Documents\STT\CS202_A4\ConsoleAlarmTimer\ConsoleAlarmTimer\obj\Debug\net8.0\ref\ConsoleAlarmTimer.dll
